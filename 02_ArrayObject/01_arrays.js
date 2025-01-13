@@ -34,6 +34,8 @@ const myn2 = myArray.splice(1,3)
 console.log(myn2); //[ 1, 2, 3 ]
 console.log("C ", myArray); //C  [ 0, 4, 5 ]
 
+console.log("New changes")
+
 
 
 
